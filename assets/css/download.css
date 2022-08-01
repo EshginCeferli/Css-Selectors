@@ -1,0 +1,48 @@
+body {
+  background-color: rgb(43, 183, 226);
+}
+div {
+  text-align: center;
+  border: 1px solid black;
+  width: 500px;
+  height: 321px;
+  padding: 6%;
+  margin: 5%;
+  background-color: white;
+  color: black;
+  box-shadow: 10px 10px 5px rgb(92, 90, 90);
+  margin-left: 25%;
+}
+div label {
+  margin-left: -345px;
+  color: rgb(61, 65, 65);
+}
+div h1 {
+  margin-left: -325px;
+  color: rgb(61, 65, 65);
+}
+div button {
+  margin-top: 13px;
+  height: 40px;
+  width: 81%;
+
+  background-color: rgb(180, 59, 22);
+  color: white;
+  border: none;
+}
+div input {
+  height: 28px;
+  width: 80%;
+  margin-bottom: 9px;
+}
+div p {
+  margin-top: 13px;
+  height: 34px;
+  width: 81%;
+  background-color: rgb(105, 227, 107);
+  color: rgb(1, 1, 1);
+  border: none;
+  margin-bottom: -2px;
+  margin-left: 45px;
+  text-align: left;
+}
